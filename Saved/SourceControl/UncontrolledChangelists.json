@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/WhiteBeast/Documents/GitHub/UEmidterm/Content/Characters/Animations/ABP_shooter.uasset",
+				"C:/Users/WhiteBeast/Documents/GitHub/UEmidterm/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/WhiteBeast/Documents/GitHub/UEmidterm/Content/Characters/Animations/shooter.uasset",
+				"C:/Users/WhiteBeast/Documents/GitHub/UEmidterm/Content/ThirdPerson/Blueprints/BP_Weapon.uasset",
+				"C:/Users/WhiteBeast/Documents/GitHub/UEmidterm/Content/Characters/Skin/character.uasset",
 				"C:/Users/User/Documents/Unreal Projects/midtermTry/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Users/User/Documents/Unreal Projects/midtermTry/Content/Characters/Skin/SK_shooter.uasset",
 				"C:/Users/User/Documents/Unreal Projects/midtermTry/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
